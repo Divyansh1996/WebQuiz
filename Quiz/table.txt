@@ -1,0 +1,42 @@
+	<table style="color:white;border-spacing: 15px;border-collapse: collapse;position:absolute;top:20%;">
+			<tr>
+			   <td style="background-color:green;color:white;border-radius:50%;">Question Number</td>
+			   <td style="background-color:orange;color:white;border-radius:50%;">Your Answer</td>
+			   <td style="background-color:#ff0039;color:white;border-radius:50%;">Correct Answer</td>
+			</tr>
+			<tr style="height:15px;">
+			</tr>
+			<tr style="background-color:green;">
+				<td>1</td>
+				<td>Google</td>
+				<td>Anushka Sharma</td>
+			</tr>
+			<tr style="height:15px;">
+			</tr>
+			<tr style="background-color:red;">
+				<td>2</td>
+				<td>Google</td>
+				<td>Yahoo</td>
+			</tr>
+			<tr style="height:15px;">
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Google</td>
+				<td>Yahoo</td>
+			</tr>
+			<tr style="height:15px;">
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>Google</td>
+				<td>Yahoo</td>
+			</tr>
+			<tr style="height:15px;">
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>Google</td>
+				<td>Yahoo</td>
+			</tr>
+		</table>
